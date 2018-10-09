@@ -5,13 +5,14 @@
             "default": true,
             "package": "dotlessShim",
             "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
+            "versionNumber": "0.2.0.NEXT"
         }
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "44.0",
     "packageAliases": {
-        "dotlessShim": "0Ho6A000000Kym5SAC"
+        "dotlessShim": "0Ho6A000000Kym5SAC",
+        "dotlessShim@0.2.0-1": "04t6A000003Oi2TQAS"
     }
 }
